@@ -1,2 +1,9 @@
 # hello-world-go
-Desafio 01 - Dockerfile GO
+
+Desafio GO
+
+## Comando para rodar imagem Docker
+
+```sh
+docker run -it tatuads/hello-world-go
+```
